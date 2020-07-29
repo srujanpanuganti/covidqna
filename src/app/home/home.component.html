@@ -1,0 +1,31 @@
+<div class="container">
+    <h1>Welcome to Covid qna</h1>
+    <div class="jumbotron">
+        <h1 class="display-4">Why codiv qna</h1>
+        <p class="lead">
+            The FAQ’s provided by the government discuss the simplest questions like what is coronavirus? what to do to prevent getting affected by the virus? how to isolate myself? But none of these websites talk about the current issues/questions like what if the toll free number doesn’t work? What should I do if the hospitals refuse to test me? What should I do if the hospitals demand huge amounts? There is a great need for answers to such questions
+        </p>
+        <hr class="my-4">
+        <p>
+            Definitely, panicking when we don’t have answers to such questions doesn’t save lives. Ofcourse, there are few solutions that might work but are not known to many. Hence, we have listed out possible solutions/answers to such questions by consulting policy makers, doctors, government officials and first responders. We cannot assure that these solutions work, but at least they show the direction to proceed when you are in a helpless situation
+        </p>
+    </div>
+
+    <div class="row row-cols-1 row-cols-md-2">
+        <div *ngFor="let x of questions; let idx = index">
+            <div class="col mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">{{x.title}}</h5>
+                        <p class="card-text">
+                            <a routerLink="/topics/{{idx}}">
+                                Explore
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</div>

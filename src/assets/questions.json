@@ -1,0 +1,173 @@
+[
+    {
+        "title":"What should I do...",
+        "questions":[
+            {
+                "question":"What should you do If you don’t know whether it’s COVID or not?",
+                "answer":"<div><h3>Steps to follow</h3><ol><li>Step-1</li><li>Step-2</li><li>Step-3</li><li><a href='https://youtu.be/tAPwRqZbfQY'>Video guide</a></li></ol></div>"
+            },
+            {
+                "question":"What should you do to know if it’s COVID or not?",
+                "answer":"ans-2"
+            },
+            {
+                "question":"What should you do if you can’t find out if it’s COVID or not?",
+                "answer":"ans-1"
+            },
+            {
+                "question":"What should you do to confirm if it’s COVID? ",
+                "answer":"ans-1"
+            }
+        ]
+
+    },
+    {
+        "title":"How to get tested?",
+        "questions":[
+            {
+                "question":"What should you do to get yourself/ your dependants tested for COVID?",
+                "answer":"ans-1"
+            },
+            {
+                "question":"What should you do if you cannot go/travel to the test area by yourself?",
+                "answer":"ans-2"
+            },
+            {
+                "question":"What should you do if the test center/ hospital refuses to test you?",
+                "answer":"ans-1"
+            },
+            {
+                "question":"What should you do if you do not have money to get yourself tested?",
+                "answer":"ans-1"
+            },
+            {
+                "question":"What should you do if your insurance isn’t covering the COVID-19 test?",
+                "answer":"ans-1"
+            }
+        ]
+    },
+    {
+        "title":"Tested Postive",
+        "questions":[
+            {
+                "question":"What should you do if you or your dependents test positive for COVID-19?",
+                "answer":"ans-1"
+            },
+            {
+                "question":"What should I do to authenticate my test results?",
+                "answer":"ans-2"
+            },
+            {
+                "question":"What should you do if one test results COVID Positive and another results COVID Negative?",
+                "answer":"ans-1"
+            },
+            {
+                "question":"What should you do to get instructions about the next steps?",
+                "answer":"ans-1"
+            },
+            {
+                "question":"What should you do if you or your dependents are showing mild symptoms of COVID?",
+                "answer":"ans-1"
+            },
+            {
+                "question":"What should you do if you are unable to reach out to anyone for instructions?",
+                "answer":"ans-1"
+            },
+            {
+                "question":"What should you do if you or your dependents are showing severe symptoms of COVID?",
+                "answer":"ans-1"
+            },
+            {
+                "question":"What should you do if you or your dependents are having trouble breathing?",
+                "answer":"ans-1"
+            },
+            {
+                "question":"What should you do if the hospitals are refusing to admit you or your dependents who have tested positive for COVID?",
+                "answer":"asdfkjasku"
+            }
+        ]
+    },
+    {
+        "title":"After Admitting in the hospital",
+        "questions":[
+            {
+                "question":"What if hospitals have admitted you but are not providing care/medication?",
+                "answer":"ans-1"
+            },
+            {
+                "question":"What should you do if you are not satisfied or doubt the treatment being given to you?",
+                "answer":"ans-2"
+            },
+            {
+                "question":"What should you do if you are not satisfied or doubt the treatment being given to your dependent?",
+                "answer":"ans-1"
+            },
+            {
+                "question":"What if you are unable to find out about your parents/dependants/siblings/children/relatives who have been admitted to the hospital?",
+                "answer":"ans-1"
+            },
+            {
+                "question":"What if the hospitals are not providing you the information about your parents/dependants/siblings/children/relatives who have been admitted to the hospital?",
+                "answer":"ans-1"
+            },
+            {
+                "question":"What should you do if the hospitals are demanding/asking for more money to treat or continue to provide care/medication?",
+                "answer":"ans-1"
+            },
+            {
+                "question":"What if you don’t have money for the medical expenses?",
+                "answer":"ans-1"
+            },
+            {
+                "question":"What if you don’t have money for the whole treatment expenses?",
+                "answer":"ans-1"
+            },
+            {
+                "question":"What if you ran out of money for the medical expenses?",
+                "answer":"ans-1"
+            },
+            {
+                "question":"What if you ran out of money for the treatment expenses?",
+                "answer":"ans-1"
+            },
+            {
+                "question":"What should you do if the hospital in which you admitted your dependants is denying to accept the insurance plan that you have?",
+                "answer":"ans-1"
+            }
+        ]
+    },
+    {
+        "title":"What To Do If We Have To Travel?",
+        "questions":[
+            {
+                "question":"What should you do before travelling to a place?",
+                "answer":"ans-1"
+            },
+            {
+                "question":"What should you do if you have to travel by flight?",
+                "answer":"ans-2"
+            },
+            {
+                "question":"What should you do if you have to stay in hotels?",
+                "answer":"ans-1"
+            }
+        ]
+    },
+    {
+        "title":"Recovered from Covid-19",
+        "questions":[
+            {
+                "question":"Can a patient still spread corona virus even after recovery?",
+                "answer":"sdf"
+            },
+            {
+                "question":"What care should you take once you are recovered from COVID-19?",
+                "answer":"sdf"
+            },
+            {
+                "question":"How do you know if you can donate your plasma?",
+                "answer":"sdf"
+            }
+        ]
+    }
+]

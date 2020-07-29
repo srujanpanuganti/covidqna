@@ -1,0 +1,19 @@
+<div class="container">
+    <h1>{{title}}</h1>    
+    <div *ngFor="let d of questions; index as idx" [attr.id]="'accordion'+idx" >
+        <div class="card">
+          <div class="card-header" id="headingOne">
+            <h5 class="mb-0">
+              <button class="btn btn-link" data-toggle="collapse" [attr.data-target]="'#test'+idx" aria-expanded="true" aria-controls="'#test'+idx" >
+                {{d.question}}
+              </button>
+            </h5>
+          </div>      
+          <div [attr.id]="'test'+idx" class="collapse" [attr.data-parent]="'#accordion'+idx" aria-labelledby="headingOne" >
+            <div class="card-body" [innerHtml]="d.answer">
+                <!-- {{d.answer}} -->
+            </div>
+          </div>
+        </div>
+    </div>
+</div>
