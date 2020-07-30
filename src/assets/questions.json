@@ -3,6 +3,10 @@
         "title":"What should I do...",
         "questions":[
             {
+                "question":"If the drugs are so costly and medical care is very costly? what is the difference between the government hospitals and private hospitals? is there any difference in the drugs being provided?",
+                "answer":"There is no difference in the drugs that are being provided. Both the government as well as private hospitals follow the same guidelines of the ICMR. There's no differece in the methods. The main difference between the private and government hospitals is only the care given to them. In private hospitals patients can demand things, complain about the care he's being provided, personalized and regular checkup are done, and the salaries given to the doctors are really high, to manage all these things, the cost is very high. In government hospitals patients are looked at specific intervals of time. It's very tough to give personalized care, as the work load is very heavy in the govt. hospitals. Govt. hospitals also employ the Govt. Medical interns for treating patients. Hence there will be many junior doctors and interns who work even for less pay as they are gaining experience. But the core medical care is same both in private and govt hospitals. The work load of the govt. doctors also affects their behavior in providing care. There are lot of other factors too."
+            },
+            {
                 "question":"What should you do If you don’t know whether it’s COVID or not?",
                 "answer":"<div><h3>Steps to follow</h3><ol><li>Step-1</li><li>Step-2</li><li>Step-3</li><li><a href='https://youtu.be/tAPwRqZbfQY'>Video guide</a></li></ol></div>"
             },
@@ -24,6 +28,10 @@
     {
         "title":"How to get tested?",
         "questions":[
+            {
+                "question":"Some hospitals are abiding to the Pricing Cap introduced by the goverment, but however hospitals are over pricing the materials which are not considered under the imposed Cap, like the PPE Kits and several other tests? How true is this? what can we do about it?",
+                "answer":"It is true. I know some situations when the hospitals do that. \n I think, the big hospitals are quite reasonable than normal small hospitals. but hospitals have to run, because at the end it is corporate and is a business."
+            },
             {
                 "question":"What should you do to get yourself/ your dependants tested for COVID?",
                 "answer":"ans-1"
@@ -49,6 +57,57 @@
     {
         "title":"Tested Postive",
         "questions":[
+            {
+                "question":"Although there is a Cap on how much hospitals can charge the patients, why hospitals are overcharging the patients?",
+                "answer":"According to a doctor whom we approached, he says \"This cap is impossible to workout based on the risks and amount of work that needs to be done. It's tough to manage the hospital/services with such a low charge\". SOme drugs are really costly. For example there is one antiviral drug which costs 7000 rupees, There are some other drugs for advanced care, they even cost 45,000 rupees for each dose."
+            },
+            {
+                "question":"Why hospitals are full and sending new patients back or denying to admit new patients?",
+                "answer":"Dr. Bharath says the problem is with many patients who aren't willing to get discharged from the hospital even though all the required protocols are finished for them. We keep telling many patients that there are many other patients who need immediate help and are in sever conditions, but the existing patients come up with fake complaints like giddiness/ headache in order to not leave the hospitals. Even though we are trying to tell the existing patients that \"if the other patients are not given immediate care and oxygen, steroids, their saturation level seriously alls down, and If you don't vacant your bed, we cannot admit them\", the existing patients are not listening to us. Most of the Patients are afraid/panicked hence they don't want to leave the hospitals. This is the main reason why hospitals are being full and are unable to admit new patients. There's also another problem private hospitals are unable to accomodate many people. Most of the nurses and frontline caregivers, are leaving to their home towns, to avoid the risk of getting COVID. As many nurses and caregivers are testing positive these days."
+            },
+            {
+                "question":"What are the alternatives?",
+                "answer":"Insurance is a better way. People who are beign covered under insurance are in a better state compare to common people who do not have insurance"
+            },
+            {
+                "question":"What are the alternatives?",
+                "answer":"There are many insurance policies right? Many insurance companies are providing free online consultation stuff. If someone needs home-isolaition, they are providing the Kits and medical necessities. They are doing this as they have to save themselves too. In this specific way, patients are benefitting. There are mnay ads coming. One I know is Star Health. They are providing medical kits and home-care"
+            },
+            {
+                "question":"We came across websites providing online consultations? Until what extent they are reliable?",
+                "answer":"The Online coonsultation are tough. It relies a lot on the patient. It depends what patient is saying. Doctor needs to completely trust what the patients is saying, only then doctor can take any actions. Many people cannot explain their symtoms exactly. Usually what patients say differ to what the symptoms actually are. If it's an in-person consultation, doctor can see and understand most of the symptoms. They observe how the patient is breathing, is he making efforts to breathe, is the patient able to sit/standm whether he's sick or not,  is he agitated. So it depends on all these factors hwo the patient is treated."
+            },
+            {
+                "question":"Is online consultation better for people who cannot afford hospitals?",
+                "answer":"If a patient has tested positive. Then after testing positive, if the patient is consulting online, It's the best option for them. Because, by this way they can avoid the most of the hospitalisation. Also in this way, doctors can suggest, when the patient really needs a hospitalization. Most of the patients are having mild symptoms, so, after testing positives, if the patient can get pulse oximeter, any electronic equipment for checking BP, and such basic thing, relying on the online consultation is a good option. "
+            },
+           {
+                "question":"Government is providing the Home-isolation Kits, how useful it is?",
+                "answer":"I am not sure if the government is being able to provide such kits to everyone. I doubt if they are being able to really implement it. If a person tests themselves in a government hospital, the kits are being given for free. If a person got tested in a private hospital and have certified results, govt is providing kits with a nominal price at the recognized covid hospitals like Gandhi, Fever and Osmania hospitals. The kit that govt is providing has good stuff. These are the basic drugs anyone would get visiting the hospitals. If people can buy zinc tablets like Zincovit, that's be very good, they are immuno boosters and improve immunity. These tablets are available in most of the local medical stores and do not require any prescription. Other drugs are used only based on the symtoms of the patient."
+            },
+            {
+                "question":"What should you do if you or your dependents test positive for COVID-19?",
+                "answer":"ans-1"
+            },
+
+            {
+                "question":"What about HydroCholoquin? is it accesible to normal public without any prescription?",
+                "answer":"This is not accessible to general public If a medical practitioner has suggestet, then it can be obtained in some medical stores. This drug is not being used now a days in hospitals, as it sems to be not very effective."
+            },
+            {
+                "question":"People are very afraid for being treated/tested by the government hospitals? are they really so bad?",
+                "answer":"I don't think so. in a situation when the people are not being able to afford, it's better to go to government hospitals. The only problem with government hospital is that, patients might not be able to get personal care. but for a common person government hospitals are best. It's only a physhological assumption that one may not be treated well if they go to a government hospital. But it is not really true. Moreover, government hospitals are treating COVID patients from past few months, they are currently in a better state to access a patient than a private doctor. In this perspective, government hospitals are better than private in current situation."
+            },
+            {
+                "question":"Is it true that one needs an approval from government hospitals, to get treated by private hospitals?",
+                "answer":"No, there is not such thing needed. It is a fake news."
+            },
+
+            {
+                "question":"What should you do if you or your dependents test positive for COVID-19?",
+                "answer":"ans-1"
+            },
+
             {
                 "question":"What should you do if you or your dependents test positive for COVID-19?",
                 "answer":"ans-1"
